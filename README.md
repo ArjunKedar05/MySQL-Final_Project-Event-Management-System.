@@ -6,6 +6,8 @@
 An **Event Management System** designed as a final project using **MySQL**.  
 This system provides a structured database solution to manage events, participants, registrations, payments, and feedback efficiently.
 
+<img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/9686f9bf-e96a-432f-9631-e47611020fb3" />
+
 ---
 
 ## 📖 Table of Contents
